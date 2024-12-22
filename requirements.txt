@@ -1,0 +1,6 @@
+numpy
+google-cloud-firestore
+google-auth
+Flask
+flask-cors
+Pillow
